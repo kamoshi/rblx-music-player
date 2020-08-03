@@ -1,4 +1,4 @@
--- VERSION 2020.06.16 by Kamov
+-- VERSION 2020.08.04
 
 local PLAYER_ROOT = Instance.new("Folder") -- Initialize folder in workspace
 	PLAYER_ROOT.Name = "MusicPlayer"
